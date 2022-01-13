@@ -45,4 +45,4 @@ sphereSurfaceCubes[i].rvel+=rdiff/40.0;
 I was teaching my daughter about electron orbitals for her chemistry class.  While I'd ultimately like to demonstrate Spherical Harmonics on it (thus the name of the repo) just getting good wave function working was a significant enough first hurdle.
 
 ## Thanks to RayLib
-Once again, for making the coding easy.
+Once again, for making the graphics coding easy.
