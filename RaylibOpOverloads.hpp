@@ -1,3 +1,5 @@
+// A lighter set of operator overloads compared to the one in my dedicated repo
+
 #include <iostream> //For stream insertion (operator<<) overloading, e.g, cout
 #include <string> //For PixelFormatNumberToName()
 #include <stdexcept> //For divide-by-zero error trapping
