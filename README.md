@@ -1,7 +1,7 @@
 # SphericalWaves
 ## 3D discrete physics sim of radial waves on a spherical suface
 
-![Screen shot](Spherical-Harmonics1-anim.png)
+![Screen shot](SphericalHarmonics1-anim.png)
 
 ## What does it do?
 Simulates radial waves on a spherical surface.  The acceleration of each voxel is based on the radial displacement of its neighbors.
